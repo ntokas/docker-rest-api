@@ -1,0 +1,16 @@
+{
+  "name": "assignment-5-rest-api",
+  "version": "1.0.0",
+  "description": "this is an assignment for internet computing class",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Nitin Tokas and Mandar Kanitkar",
+  "license": "PACE",
+  "dependencies": {
+    "express": "^4.15.2",
+    "fs": "0.0.1-security"
+  
+  }
+}
