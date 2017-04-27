@@ -1,6 +1,6 @@
 const express = require("express");
 let app = express();
-let configRoutes = require("./routes");
+let configRoutes = require("./api");
 
 configRoutes(app);
 
