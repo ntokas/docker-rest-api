@@ -1,8 +1,8 @@
 {
  "name": "donuts",
  "version": "1.0.0",
- "description": "Node.js on Docker",
- "author": "Manoj NS",
+ "description": "Docker Assignment",
+ "author": "Nitin Tokas & Mandar Kanitkar",
  "main": "app.js",
  "scripts": {
  "start": "node app.js"
