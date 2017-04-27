@@ -1,7 +1,7 @@
-const educationroutes = require("./donut");
+const donuts = require("./donut");
 
 const constructorMethod = (app) => {
-    app.use("/donut", educationroutes);
+    app.use("/donut", donuts);
 
 
     app.use("*", (req, res) => {
